@@ -2,18 +2,7 @@
 <tr><td>
 # gcm-impacta
 # Integrantes: Cibele Santos / Mediane das Neves 
-# IOS
-# iPhone OS 1
-# iPhone OS 2
-# iPhone OS 3
-# iOS 4
-# iOS 5
-# iOS 6
-# iOS 7
-# iOS 8
-# iOS 9
-# IOS 10
-# IOS 10.3.2
+<tr><td> IOS,iPhone OS 1,iPhone OS 2,iPhone OS 3,iOS 4,iOS 5,iOS 6,iOS 7,iOS 8,iOS 9,IOS 10,IOS 10.3.2 </td> <td>
 # Android
 # Versões de pré-lançamento comercial (2007-2008)
 # Android alpha
