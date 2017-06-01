@@ -1,2 +1,0 @@
-# gcm-impacta
-gcm-impacta
