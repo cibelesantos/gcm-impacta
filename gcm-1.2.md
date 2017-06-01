@@ -1,13 +1,8 @@
 <html>
-<head>
-   gcm-impacta
-   <title>gcm-impacta</title>
-   Integrantes: Cibele Santos / Mediane das Neves 
-</head>
-<body>
-<table border="1">
-<tr><td>IOS</td></tr>
+# gcm-impacta
+<table border="1"> <tr><td>Integrantes: Cibele Santos / Mediane das Neves </td></tr>
 </table>
+# IOS
 # iPhone OS 1
 # iPhone OS 2
 # iPhone OS 3
@@ -60,5 +55,5 @@
 # Windows 7	Office 2010	
 # Windows 8	Office 2013	
 # Windows 10	Office 2016	
-</body>
+
 </html>
