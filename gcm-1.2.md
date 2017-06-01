@@ -1,7 +1,7 @@
-
-<table border="1"> <tr><td>gcm-impacta</td></tr>
-<table border="1"> <tr><td>Integrantes: Cibele Santos / Mediane das Neves </td></tr>
-</table>
+<table border="1"> 
+<tr><td>
+# gcm-impacta
+# Integrantes: Cibele Santos / Mediane das Neves 
 # IOS
 # iPhone OS 1
 # iPhone OS 2
@@ -54,6 +54,8 @@
 # Windows Server 2008	Office 2010	
 # Windows 7	Office 2010	
 # Windows 8	Office 2013	
-# Windows 10	Office 2016	
+# Windows 10	Office 2016
+</td></tr>
+</table>
 
 
