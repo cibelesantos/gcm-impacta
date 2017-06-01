@@ -1,4 +1,4 @@
-<table border="1"> 
+<table> 
 <tr><td>
 # gcm-impacta
 # Integrantes: Cibele Santos / Mediane das Neves 
@@ -44,7 +44,7 @@
 # Windows 7	Office 2010	
 # Windows 8	Office 2013	
 # Windows 10	Office 2016
-</td></tr>
+
 </table>
 
 
