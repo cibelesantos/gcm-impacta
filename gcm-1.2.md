@@ -1,4 +1,4 @@
-<html>
+<html lang="pt-br>
 # gcm-impacta
 <title>gcm-impacta</title>
 # Integrantes: Cibele Santos / Mediane das Neves 
