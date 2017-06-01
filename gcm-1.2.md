@@ -1,6 +1,6 @@
 <html>
 # gcm-impacta
-# <title>gcm-impacta</title>
+<title>gcm-impacta</title>
 # Integrantes: Cibele Santos / Mediane das Neves 
 # IOS
 # iPhone OS 1
